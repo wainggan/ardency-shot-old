@@ -860,10 +860,10 @@ render.look_set_water_bullets(#4488bb, 0.7, true)
 
 //stageIndex = 10
 
-addSection(function(){
-	enemy("boss", 0, 0);
-});
-addPause(, true)
+//addSection(function(){
+//	enemy("boss", 0, 0);
+//});
+//addPause(, true)
 
 addPause(beat_to_frame(2))
 

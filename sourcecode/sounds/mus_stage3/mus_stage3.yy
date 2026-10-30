@@ -1,15 +1,17 @@
 {
-  "$GMSound":"",
+  "$GMSound":"v2",
   "%Name":"mus_stage3",
   "audioGroupId":{
     "name":"audiogroup_default",
     "path":"audiogroups/audiogroup_default",
   },
   "bitDepth":1,
-  "bitRate":112,
+  "channelFormat":1,
   "compression":3,
+  "compressionQuality":3,
   "conversionMode":0,
   "duration":189.231,
+  "exportDir":"",
   "name":"mus_stage3",
   "parent":{
     "name":"Music",
@@ -20,6 +22,5 @@
   "resourceVersion":"2.0",
   "sampleRate":44100,
   "soundFile":"mus_stage3.mp3",
-  "type":1,
   "volume":1.0,
 }
